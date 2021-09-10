@@ -2,7 +2,7 @@
 
 #### I'm a data enthusaist proficient in Python, R, SQL, machine learning, and look forward to solve problems and create impact for business.
 
-<br/> Hi,  currently a master student studying Business Analytics at UCSD.
+<br/> Currently a master student studying Business Analytics at UCSD.
 
 <br/> 🌞 My projects are related to:
 - Data Science & Data Analytics & Data Visualization
